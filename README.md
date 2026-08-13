@@ -1,5 +1,115 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a1ea1c9e-eda3-4b15-8f31-1a84b44db269" /># 💫 About Me:
-🔭 I’m currently working on: Full Stack Web Development Projects<br>👯 I’m looking to collaborate on: Open Source & Web Development Projects<br>🤝 I’m looking for help with: Advanced React.js and Backend Development<br>🌱 I’m currently learning: HTML, CSS, JavaScript, React, Node.js, MongoDB<br>💬 Ask me about: Web Development, Git & GitHub<br>⚡ Fun fact: I believe learning by building real projects is the fastest way to grow.
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a1ea1c9e-eda3-4b15-8f31-1a84b44db269" /># 💫 
+# Hi, I'm Taniya Negi 👋
+
+### BSc IT Graduate | Aspiring Full Stack Developer
+
+I'm a BSc IT graduate interested in **web development, software development, and IoT**.
+
+I enjoy building practical projects, learning new technologies, and improving my development skills through hands-on work.
+
+---
+
+## 🚀 About Me
+
+* 🎓 BSc IT Graduate
+* 💻 Interested in Web & Software Development
+* 🌱 Currently improving my HTML, CSS & JavaScript skills
+* 🔧 Interested in Full Stack Development
+* 📚 Learning by building real-world projects
+* 🎯 Goal: Start my career as a Software / Web Developer
+
+---
+
+## 🛠️ Tech Stack IT Intern 
+
+### Languages
+
+* C
+* Python
+* SQL
+
+### Web Development
+
+* HTML
+* CSS
+* JavaScript
+
+### Database
+
+* SQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+### Other
+
+* Arduino
+* IoT
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Amazon Clone
+
+A front-end Amazon-inspired website created to practice web development and build a real-world style user interface.
+
+**Technologies:** HTML, CSS.
+
+🔗 Check the repository in my pinned projects below.
+
+---
+
+### 🌱 IoT Smart Irrigation System
+
+An IoT-based project designed around soil moisture monitoring and smart irrigation.
+
+**Technologies:** Arduino, IoT, Sensors
+
+---
+
+### 🧮 C Calculator
+
+A simple calculator project developed in C to practice programming fundamentals and logical problem solving.
+
+**Technologies:** C
+
+---
+
+## 🌱 Currently Learning
+
+* Java
+* DOM & Events
+* Responsive Web Design
+* Git & GitHub
+* Frontend Development
+* Backend Development
+* Data Structures & Algorithms
+
+---
+
+## 🎯 2026 Goals
+
+* Build more real-world projects
+* Improve JavaScript and Full Stack Development
+* Contribute to GitHub consistently
+* Create a strong developer portfolio
+* Get my first role in the IT industry
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/taniya-negi-711476428/e here
+* 🐙 GitHub: [@ntanu5942-eng200](https://github.com/ntanu5942-eng200)
+
+---
+
+### 💡 "Build. Learn. Improve. Repeat."
+
 
 
 ## 🌐 Socials:
